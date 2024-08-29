@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-stack Developer
 Motivated IT undergraduate with a deep passion for programming and a proven ability in problem-solving. I bring hands-on experience in both software development and hardware integration, with a focus on crafting efficient and innovative solutions.
 * 🌍  I'm based in Sri Lanka*
-✉️  You can contact me at [maduwanthaaselagra@gmail.com](mailto:maduwanthaaselagra@gmail.com)
+*✉️  You can contact me at [maduwanthaaselagra@gmail.com](mailto:maduwanthaaselagra@gmail.com)*
 
 # Skills
 
