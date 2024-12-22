@@ -1,4 +1,4 @@
-# Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28px" alt="waving hand">
+# Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28px" alt="waving hand"> I'm Asela Maduwantha
 
 ## 👨‍💻 About Me
 I'm Asela Maduwantha, a motivated IT undergraduate based in Sri Lanka with a deep passion for programming and problem-solving. I specialize in software development and hardware integration, focusing on crafting efficient and innovative solutions.
