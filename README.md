@@ -82,7 +82,7 @@ I'm Asela Maduwantha, a motivated IT undergraduate based in Sri Lanka with a dee
 <!-- Add 2-3 of your best projects here -->
 <div align="left">
   <a href="https://github.com/asela-maduwantha/artz_usha_be">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=asela-maduwantha&repo=artz_ush_be&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=asela-maduwantha&repo=artz_usha_be&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
 </div>
 
 ## 📫 Let's Connect
